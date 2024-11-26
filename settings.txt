@@ -2,4 +2,5 @@
 some settings done
 
 some settings in develop to get git conflicts
+create conflict in pull request
 
