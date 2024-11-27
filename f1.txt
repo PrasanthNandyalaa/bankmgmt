@@ -1,4 +1,8 @@
 
+
 some modification to get git conflict
 
 modified to get git conflict
+
+git stash example
+
