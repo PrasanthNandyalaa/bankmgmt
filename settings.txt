@@ -3,3 +3,8 @@ some settings done
 
 some settings in develop to get git conflicts
 
+specifically modifying line no.5 to create pull request conflict in main branch
+
+create conflict in pull request
+
+
