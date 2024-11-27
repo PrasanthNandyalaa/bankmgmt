@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+
+some modification to get git conflict
+
+modified to get git conflict
+=======
+git stash example
+>>>>>>> 051d243 (f1.txt added for git stash example)
